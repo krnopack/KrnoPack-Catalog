@@ -1,5 +1,5 @@
 /* Replace this one value when the catalog moves to Google Drive. */
-const CATALOG_URL = "https://drive.google.com/file/d/1yF_GfG69Q91EM-uTq_33TOlcDl4yU3i2/view?usp=sharing";
+const CATALOG_URL = "https://drive.google.com/file/d/1yF_GfG69Q91EM-uTq_33TOlcDl4yU3i2/view";
 const OPEN_DELAY_MS = 1350;
 
 const button = document.getElementById("openCatalog");
